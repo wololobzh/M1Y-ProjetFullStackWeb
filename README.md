@@ -7,7 +7,7 @@
 - **Pour qui ?** Destinée à un public varié (jeunes adultes, familles, étudiants, travailleurs indépendants) souhaitant gérer efficacement leur budget.
 - **Comment ?** En équipe.
 - **Quand ?** Sur 4 jours.
-- **Pourquoi ?** Pour découvrir le développepement FullStack.
+- **Pourquoi ?** Pour découvrir le développement FullStack.
 
 ## Présentation du Projet de Développement
 
